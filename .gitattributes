@@ -1,0 +1,2 @@
+LostGem/LostGem.zip filter=lfs diff=lfs merge=lfs -text
+OpalaFigth/OpalaFigth.zip filter=lfs diff=lfs merge=lfs -text
